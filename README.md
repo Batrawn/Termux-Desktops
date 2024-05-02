@@ -1,2 +1,2 @@
 # Termux-Desktops
-hi
+this is skript for installing proot desktop 
